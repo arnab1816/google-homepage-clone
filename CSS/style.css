@@ -93,6 +93,7 @@ body {
     border: 0px solid;
     width: 90%;
     height: 100%;
+    font-size: 1.2rem;
 }
 
 .text-input:focus {
@@ -101,7 +102,7 @@ body {
 
 .main-search i {
     color: gray;
-    padding: 2px 5px;
+    padding: 0.1rem;
 }
 
 .mic-icon {
